@@ -29,6 +29,7 @@ public class EntradaESaida {
 		System.out.println(idade);
 		System.out.println(altura);
 		System.out.println("modificado");
+		System.out.println("modificado outa vez");
 	}
 
 }
